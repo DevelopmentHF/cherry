@@ -25,7 +25,6 @@ Pausing the central timer:
 
 
 Exiting Cherry:
-
 `q`
 
 <br>
