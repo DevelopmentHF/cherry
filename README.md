@@ -14,6 +14,13 @@ In future, Cherry may have variations on the traditional pomodoro technique, suc
 
 ---
 
+
+![cherry banner][images/cherrybanner.png]
+
+
+
+---
+
 ## Commands
 Starting / Restarting the central timer:
 `s`
