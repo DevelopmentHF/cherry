@@ -66,6 +66,9 @@ cd cherry/src
 ```
 python3 main.py
 ```
+---
+
+Alternatively, you can just run the `cherry.exe`, which has been bundled using pyinstaller.
 
 <br>
 That's it. Enjoy 🍒
