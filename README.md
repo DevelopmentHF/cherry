@@ -15,7 +15,9 @@ In future, Cherry may have variations on the traditional pomodoro technique, suc
 ---
 
 
-![cherry banner][images/cherrybanner.png]
+![cherry banner](images/cherrybanner.png)
+
+![cherry program](images/cherrydemo.png)
 
 
 
